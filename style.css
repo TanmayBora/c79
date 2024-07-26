@@ -1,0 +1,23 @@
+#submit
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size:60px;
+}
+#sort
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 60px;
+    display:none;
+}
+input
+{
+    margin:10px;
+    font-size:65px;
+}
+body
+{
+    background-color:orange;
+    font-size:75px;
+}
